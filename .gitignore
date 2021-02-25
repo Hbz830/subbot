@@ -1,0 +1,11 @@
+.vscode
+app/config.py
+venv/
+.venv/
+.idea/*
+*.py[cod]
+__pycache__
+
+*.mo
+
+.env
